@@ -26,7 +26,7 @@
 
 <p> If you've read this far, here's a link to my favorite car video:</p>
     
- ## Take a look :D -->
+  Take a look :D -->
   <a href="https://www.youtube.com/watch?v=viW44cUfxCE" target="_blank">My Favorite Car Video</a>
 </body>
 
