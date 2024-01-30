@@ -2,6 +2,7 @@
 </head>
 <body>
 
+
   <p>I graduated high school in June 2020, and I'm about to graduate from TMU in the next couple of months in 2024. 
     My program is Business Technology Management, which basically involves combining business with information technology. 
     One of my favorite courses was an ITM course that involved creating an ecommerce brand. During my off time, I play basketball and build NFT projects, and I work in the web3 space! </p>
